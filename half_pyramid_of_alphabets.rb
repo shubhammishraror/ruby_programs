@@ -1,5 +1,12 @@
 puts "enter text"
-n =gets.chomp.to_i
+n =gets.chomp.to_i 
+=begin
+A
+B B
+C C C
+D D D D
+E E E E E
+=end
 
 starting_char = 'A'
 puts starting_char

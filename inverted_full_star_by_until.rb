@@ -2,6 +2,12 @@ i = 9
 j = 1
 k = 1
 l = 6
+=begin* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+=end
 until i == j; k == l
 (k).times {print " "}
 (i).times {print "*"}

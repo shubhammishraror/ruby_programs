@@ -1,3 +1,5 @@
+=begin it will do arithmetic operators of two numbers 
+=end
 print "Selet an option For Add =1 Sub =2 Mul =3 Div =4"
 def add
   puts "this is for input"

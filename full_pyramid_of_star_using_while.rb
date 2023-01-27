@@ -1,6 +1,13 @@
 i = 1
 j = 10
-k = 5
+k = 5 
+=begin 
+    *
+    ***
+   *****
+  *******
+ *********
+=end
 
 while i <= j do
 (k).times {print " "}
